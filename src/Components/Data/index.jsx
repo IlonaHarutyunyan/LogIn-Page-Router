@@ -1,0 +1,22 @@
+export const data = [
+    {
+        userName:'1111@gmail.com',
+        password:'1111'
+    },
+    {
+        userName:'2222@gmail.com',
+        password:'2222'
+    },
+    {
+        userName:'3333@gmail.com',
+        password:'3333'
+    },
+    {
+        userName:'4444@gmail.com',
+        password:'4444'
+    },
+    {
+        userName:'5555@gmail.com',
+        password:'5555'
+    }
+]
